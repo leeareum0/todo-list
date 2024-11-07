@@ -6,7 +6,7 @@
 .Editor input {
   flex: 1;
   padding: 15px;
-  border: 1ps solid rgb(37, 147, 255);
+  border: 1px solid rgb(37, 147, 255);
   border-radius: 5px;
 }
 
